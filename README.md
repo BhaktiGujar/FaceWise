@@ -71,15 +71,16 @@ To install FaceWise, follow these steps:
 ## ScreenShots
 ### UI
 
+![Home](https://github.com/ashutosh786palhare/FaceWise/assets/53346137/94726082-86b9-43b0-af84-25ac27806faf)
 
 ### Take Image
 
+![Take image](https://github.com/ashutosh786palhare/FaceWise/assets/53346137/113fe53b-4410-486c-85be-371bc39f25e3)
 
 ## Filling Attendance
 
+![Filling Attendance](https://github.com/ashutosh786palhare/FaceWise/assets/53346137/a5fd4334-4e26-4439-9a3c-78993d7aad66)
 
-## Attendance in tabular format 
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
 
 ## Contribution Guidelines
 If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated!
