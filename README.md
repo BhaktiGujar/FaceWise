@@ -106,7 +106,7 @@ For any further information, collaborations, or inquiries, feel free to reach ou
 Modified by: [ME](https://github.com/ashutosh786palhare)
 
 Made by: [This Guy](https://github.com/Patelrahul4884) Big thanks to @Patelrahul4884
-This Project is Developed by 
+
 
 ## Thank-You
 **Thank you for visiting my repository and exploring my portfolio website!**
