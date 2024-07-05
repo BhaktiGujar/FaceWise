@@ -109,7 +109,7 @@ Made by: [This Guy](https://github.com/Patelrahul4884) Big thanks to @Patelrahul
 
 
 ## Thank-You
-**Thank you for visiting my repository and exploring my portfolio website!**
+**Thank you for visiting my repository and exploring my Profile!**
 
 
    
